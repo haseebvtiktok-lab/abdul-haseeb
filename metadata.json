@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Earning Platform",
+  "description": "A modern web application for users to earn points by viewing ads and manage their earnings, built with React and Firebase Realtime Database.",
+  "requestFramePermissions": []
+}
